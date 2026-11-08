@@ -9,10 +9,7 @@ An end-to-end machine learning and full-stack application that estimates the **R
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 
 > **Project type:** Machine Learning + Full-Stack Portfolio Project  
 > **Domain:** Predictive maintenance / machine failure prediction  
