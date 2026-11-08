@@ -1,14 +1,34 @@
-﻿__pycache__/
+﻿# Python
+__pycache__/
 *.py[cod]
 *.class
 .venv/
+venv/
+backend/venv/
+
+# Environment variables
 .env
+.env.*
+!.env.example
+
+# NASA dataset
 backend/data/raw/*
 !backend/data/raw/.keep
+
+# Processed data
 backend/data/processed/*
 !backend/data/processed/.keep
+
+# Trained ML models
 backend/app/models/*.joblib
 !backend/app/models/.keep
+
+# Frontend dependencies
 frontend/node_modules/
 frontend/dist/
-frontend/.env*
+
+# Build and cache files
+*.log
+.DS_Store
+.vscode/
+.idea/
